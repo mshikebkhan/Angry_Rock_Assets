@@ -1,6 +1,5 @@
 <h1>🔥 2D Angry Rock Asset Pack! 🔥</h1>
 <p>A Template for Sling-Shot-Based Games</p>
-<p><strong>Note:</strong> It does not include any scripts.</p>
 
 <h2>🎮 Gameplay Elements:</h2>
 <ul>
@@ -33,3 +32,14 @@
 <h2>🚀 Perfect for:</h2>
 <p>🛠️ Physics-based puzzle games (sling shot-style)</p>
 <p>✅ Optimized for Unity – Drag-and-drop ready!</p>
+
+<h1>Technical Details</h1>
+
+<p>This 2D Game Template includes 53 sprites for platformer and side-scrolling games, featuring clouds, mountains, sky, ground, and platforms.</p> 
+
+<p><strong>Image Dimensions:</strong> Ranging from 128x128 px to 1920x1080 px</p> 
+<p><strong>Color Depth:</strong> 64-bit (RGBA)</p> 
+<p><strong>Transparency:</strong> Some contain transparency and some do not.</p> 
+<p><strong>Format:</strong> PNG</p> 
+<p><strong>Note:</strong> This template only contains assets, backgrounds, and GUI not scripts.</p>
+
