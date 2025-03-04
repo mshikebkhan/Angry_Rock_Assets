@@ -33,7 +33,7 @@
 <p>🛠️ Physics-based puzzle games (sling shot-style)</p>
 <p>✅ Optimized for Unity – Drag-and-drop ready!</p>
 
-<h1>Technical Details</h1>
+<h2>Technical Details</h2>
 
 <p>This 2D Game Template includes 53 sprites for platformer and side-scrolling games, featuring clouds, mountains, sky, ground, and platforms.</p> 
 
